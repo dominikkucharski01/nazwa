@@ -1,1 +1,2 @@
 # nazwa
+Dominik repozytorium
